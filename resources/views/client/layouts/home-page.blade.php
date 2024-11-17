@@ -27,8 +27,7 @@
     <div class="main-wrapper" id="main-wrapper">
         <!--=        Header Area Start       	=-->
         @include('client.layouts.header')
-        <!--=        Breadcrumb Area Start       =-->
-        @include('client.layouts.breadcrumb')
+
         <!--=        Main Content Start          =-->
         @yield('content')
 

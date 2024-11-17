@@ -1,4 +1,4 @@
-@extends('client.layouts.main')
+@extends('client.layouts.home-page')
 @section('content')
     <!--=====================================-->
     <!--=        Recent Area Start          =-->
