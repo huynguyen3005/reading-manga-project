@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\AdminHomeController;
 use App\Http\Controllers\Client\HomeController;
 use Illuminate\Support\Facades\Route;
 
@@ -15,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [HomeController::class, 'home'])->name('home');
+// admin routers
+Route::prefix('backend')->group(function () {
+    Route::get('/', [AdminHomeController::class, 'index'])->name('admin.home');
+});
