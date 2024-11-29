@@ -13,8 +13,10 @@ return new class extends Migration {
         Schema::create('chapters', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('comic_id');
-            $table->float('number');
             $table->string('title');
+            $table->string('chapter_name'); // the name or the number of the chapter
+            $table->string('chapter_title')->nullable();
+            $table->string('chapter_path')->nullable(); // optional chapter path, default is images links of the chapter
             $table->date('release_at')->nullable();
             $table->timestamps();
             $table->softDeletes(); // Add this line for soft deletes

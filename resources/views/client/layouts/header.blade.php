@@ -93,7 +93,7 @@
                         <a href="home-2.html">Top truyện</a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="home-3.html">Blogs</a>
+                        <a href="{{ route('blogs') }}">Blogs</a>
                     </li>
                 </ul>
                 <form action="https://uiparadox.co.uk/public/templates/animeloop/v2/demo/list-view.html">
@@ -103,8 +103,8 @@
                     </div>
                 </form>
                 <div class="d-flex right-nav">
-                    <a href="signup.html" class="anime-btn2 light me-3">SIGN UP</a>
-                    <a href="login.html" class="anime-btn2 dark">LOG IN</a>
+                    <a href="{{ route('signup') }}" class="anime-btn2 light me-3">Đăng Ký</a>
+                    <a href="{{ route('login') }}" class="anime-btn2 dark">Đăng Nhập</a>
                 </div>
             </div>
         </nav>

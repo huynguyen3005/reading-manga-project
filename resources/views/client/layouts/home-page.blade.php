@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from uiparadox.co.uk/public/templates/animeloop/v2/demo/home.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Nov 2024 14:40:47 GMT -->
-
 <head>
     <!-- Meta Data -->
     <meta charset="UTF-8">
@@ -38,8 +36,5 @@
     <!-- Jquery Js -->
     @include('client.layouts.js')
 </body>
-
-
-<!-- Mirrored from uiparadox.co.uk/public/templates/animeloop/v2/demo/home.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Nov 2024 14:40:59 GMT -->
 
 </html>

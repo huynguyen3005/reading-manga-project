@@ -13,7 +13,9 @@ return new class extends Migration {
         Schema::create('comic_images', function (Blueprint $table) {
             $table->id();
             // when parent record is deleted the relationship records will be deleted
-            $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade'); 
+            $table->unsignedBigInteger('comic_id');
+            $table->timestamps();
+            $table->softDeletes(); // Add this line for soft deletes
             $table->string('link');
             $table->text('text')->nullable();
             $table->timestamps();

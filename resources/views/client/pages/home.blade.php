@@ -3,19 +3,26 @@
     <!--=====================================-->
     <!--=        Recent Area Start          =-->
     <!--=====================================-->
-    <section class="recent style-3 sec-mar">
+    <section class="recent sec-mar">
         <div class="container">
             <div class="heading style-1">
-                <h2>Popular Manga<span>Sunday 01 Jan 2023</span></h2>
+                <h2>Recently Updated <span>Sunday 01 Jan 2023</span></h2>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-sm-6 col-12">
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
                     <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga1.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-2.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
                             <div class="dropdown">
                                 <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
                                     <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
@@ -36,274 +43,36 @@
                                 </button>
                                 <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
                                     <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
                                     </li>
                                     <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <a href="manga-detail.html">
-                            <p>Solo Leveling</p>
-                        </a>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga2.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
-                            <div class="dropdown">
-                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
-                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <path
-                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
-                                            fill="#999999" />
-                                        <path
-                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
-                                            fill="#999999" />
-                                    </svg>
-                                </button>
-                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
-                                    <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
-                                    </li>
-                                    <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="manga-detail.html">
-                            <p>Full metal Alchemist</p>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga3.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
-                            <div class="dropdown">
-                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
-                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <path
-                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
-                                            fill="#999999" />
-                                        <path
-                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
-                                            fill="#999999" />
-                                    </svg>
-                                </button>
-                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
-                                    <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
-                                    </li>
-                                    <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="manga-detail.html">
-                            <p>Hunter x Hunter</p>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga4.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
-                            <div class="dropdown">
-                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
-                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <path
-                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
-                                            fill="#999999" />
-                                        <path
-                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
-                                            fill="#999999" />
-                                    </svg>
-                                </button>
-                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
-                                    <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
-                                    </li>
-                                    <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="manga-detail.html">
-                            <p>Kiznaiver</p>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga5.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
-                            <div class="dropdown">
-                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
-                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <path
-                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
-                                            fill="#999999" />
-                                        <path
-                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
-                                            fill="#999999" />
-                                    </svg>
-                                </button>
-                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
-                                    <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
-                                    </li>
-                                    <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="manga-detail.html">
-                            <p>Code Geas</p>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga6.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
-                            <div class="dropdown">
-                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
-                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <path
-                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
-                                            fill="#999999" />
-                                        <path
-                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
-                                            fill="#999999" />
-                                    </svg>
-                                </button>
-                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
-                                    <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
-                                    </li>
-                                    <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="manga-detail.html">
-                            <p>Dragon Ball Z Super</p>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga7.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
-                            <div class="dropdown">
-                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
-                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
-                                            fill="#999999" />
-                                        <path
-                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
-                                            fill="#999999" />
-                                        <path
-                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
-                                            fill="#999999" />
-                                    </svg>
-                                </button>
-                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
-                                    <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
-                                    </li>
-                                    <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="manga-detail.html">
+                        <a href="streaming-season.html">
                             <p>My Hero Academia</p>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 col-12">
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
                     <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga8.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
+                        <div class="img-block">
+                            <div class="label-tag">18+</div>
+                            <img src="assets/media/anime/img-21.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
                             <div class="dropdown">
                                 <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
                                     <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
@@ -324,16 +93,312 @@
                                 </button>
                                 <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
                                     <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
                                     </li>
                                     <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <a href="manga-detail.html">
+                        <a href="streaming-season.html">
+                            <p>Black Bullet</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                    <div class="anime-blog">
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-7.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
+                            <div class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
+                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <path
+                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
+                                            fill="#999999" />
+                                    </svg>
+                                </button>
+                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
+                                    <li>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <a href="streaming-season.html">
+                            <p>Your Name</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                    <div class="anime-blog">
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-8.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
+                            <div class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
+                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <path
+                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
+                                            fill="#999999" />
+                                    </svg>
+                                </button>
+                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
+                                    <li>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <a href="streaming-season.html">
+                            <p>Darling in the Frax!</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                    <div class="anime-blog">
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-5.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
+                            <div class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
+                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <path
+                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
+                                            fill="#999999" />
+                                    </svg>
+                                </button>
+                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
+                                    <li>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <a href="streaming-season.html">
+                            <p>Haikyu</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                    <div class="anime-blog">
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-22.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
+                            <div class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
+                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <path
+                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
+                                            fill="#999999" />
+                                    </svg>
+                                </button>
+                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
+                                    <li>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <a href="streaming-season.html">
+                            <p>Kiznaiver</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                    <div class="anime-blog">
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-6.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
+                            <div class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
+                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <path
+                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
+                                            fill="#999999" />
+                                    </svg>
+                                </button>
+                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
+                                    <li>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <a href="streaming-season.html">
+                            <p>Psycho Pass</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                    <div class="anime-blog">
+                        <div class="img-block">
+                            <div class="label-tag">18+</div>
+                            <img src="assets/media/anime/img-4.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
+                            <div class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
+                                    <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.145264" y="0.00012207" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="7.41272" width="21.4395" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <rect x="0.145264" y="14.8258" width="16.4914" height="2.68125" rx="1.34062"
+                                            fill="#999999" />
+                                        <path
+                                            d="M19.8784 16.0712C19.8784 15.4163 20.4093 14.8854 21.0642 14.8854H30.2463C30.9011 14.8854 31.432 15.4163 31.432 16.0712C31.432 16.7261 30.9011 17.257 30.2463 17.257H21.0642C20.4093 17.257 19.8784 16.7261 19.8784 16.0712Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M25.6552 22.0001C25.0171 22.0001 24.4999 21.4828 24.4999 20.8447V11.2977C24.4999 10.6596 25.0171 10.1423 25.6552 10.1423C26.2933 10.1423 26.8106 10.6596 26.8106 11.2977V20.8447C26.8106 21.4828 26.2933 22.0001 25.6552 22.0001Z"
+                                            fill="#999999" />
+                                    </svg>
+                                </button>
+                                <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
+                                    <li>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <a href="streaming-season.html">
                             <p>One Piece</p>
                         </a>
                     </div>
@@ -342,21 +407,28 @@
         </div>
     </section>
     <!--=====================================-->
-    <!--=        Popular Anime Area Start =-->
+    <!--=        Popular Comics Area Start =-->
     <!--=====================================-->
-    <section class="popular style-3  sec-mar">
+    <section class="popular sec-mar">
         <div class="container">
             <div class="heading style-1">
-                <h2>Recently Uploaded</h2>
+                <h2>Popular Anime</h2>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-sm-6 col-12">
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
                     <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga9.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-5.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
                             <div class="dropdown">
                                 <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
                                     <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
@@ -377,27 +449,36 @@
                                 </button>
                                 <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
                                     <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
                                     </li>
                                     <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <a href="manga-detail.html">
-                            <p>Bleach</p>
+                        <a href="streaming-season.html">
+                            <p>Haikyu</p>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 col-12">
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
                     <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga10.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
+                        <div class="img-block">
+                            <div class="label-tag">18+</div>
+                            <img src="assets/media/anime/img-6.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
                             <div class="dropdown">
                                 <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
                                     <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
@@ -418,27 +499,36 @@
                                 </button>
                                 <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
                                     <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
                                     </li>
                                     <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <a href="manga-detail.html">
-                            <p>Spy X Family</p>
+                        <a href="streaming-season.html">
+                            <p>Kiznaiver</p>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 col-12">
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
                     <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga11.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
+                        <div class="img-block">
+                            <div class="label-tag">18+</div>
+                            <img src="assets/media/anime/img-7.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
                             <div class="dropdown">
                                 <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
                                     <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
@@ -459,27 +549,35 @@
                                 </button>
                                 <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
                                     <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
                                     </li>
                                     <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <a href="manga-detail.html">
-                            <p>Naruto</p>
+                        <a href="streaming-season.html">
+                            <p>Psycho Pass</p>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 col-12">
+                <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
                     <div class="anime-blog">
-                        <a href="manga-detail.html" class="img-block">
-                            <img src="assets/media/manga/manga12.png" alt="">
-                        </a>
-                        <div class="d-flex justify-content-between">
-                            <p class="text">Chapter 179</p>
+                        <div class="img-block">
+                            <img src="assets/media/anime/img-8.png" alt="" />
+                            <div class="action-overlay">
+                                <a href="streaming-season.html"><i class="fal fa-play-circle"></i> Play Now</a>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <div class="tags">
+                                <a href="streaming-season.html" class="text-box">dub</a>
+                                <a href="streaming-season.html" class="text-box">sub</a>
+                                <p class="text">TV</p>
+                            </div>
                             <div class="dropdown">
                                 <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown">
                                     <svg width="32" height="22" viewBox="0 0 32 22" fill="none"
@@ -500,17 +598,18 @@
                                 </button>
                                 <ul class="dropdown-menu bg-color-black pt-3 pb-3 ps-3 pe-3">
                                     <li>
-                                        <a href="manga-detail.html" class="none"><i class="fa fa-check"></i> Watch
-                                            Later </a>
+                                        <a href="#" class="none"><i class="fa fa-check"></i> Watch Later
+                                        </a>
                                     </li>
                                     <li>
-                                        <a href="manga-detail.html"><i class="fas fa-plus"></i> Add to Playlist </a>
+                                        <a href="#"><i class="fas fa-plus"></i> Add to Playlist
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <a href="manga-detail.html">
-                            <p>Summer Time</p>
+                        <a href="streaming-season.html">
+                            <p>One Piece</p>
                         </a>
                     </div>
                 </div>
@@ -603,14 +702,14 @@
                         </div>
                         <div class="tab-pane fade show active" id="sunday">
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
-                                    <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0 ">
+                                <div class="row align-items-center">
+                                    <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">12:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -629,16 +728,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">14:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -657,20 +756,22 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">23:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
-                                                    <p class="small-title">That Time I Reincarnated</p>
+                                                    <p class="small-title">
+                                                        That Time I Reincarnated
+                                                    </p>
                                                     <p class="text-box">dub 8</p>
                                                     <p class="text-box">sub 12</p>
                                                 </div>
@@ -685,16 +786,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">22:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -713,16 +814,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">19:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -741,16 +842,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">07:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -772,14 +873,14 @@
                         </div>
                         <div class="tab-pane fade" id="monday">
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">22:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -798,16 +899,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">12:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -826,16 +927,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">14:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -854,21 +955,22 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">23:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
-                                                    <p class="small-title">That Time I Reincarnated As a Slime
-                                                        Season 2</p>
+                                                    <p class="small-title">
+                                                        That Time I Reincarnated As a Slime Season 2
+                                                    </p>
                                                     <p class="text-box">dub 8</p>
                                                     <p class="text-box">sub 12</p>
                                                 </div>
@@ -883,16 +985,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">19:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -911,16 +1013,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">07:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -942,14 +1044,14 @@
                         </div>
                         <div class="tab-pane fade" id="tuesday">
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">12:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -968,21 +1070,22 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">23:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
-                                                    <p class="small-title">That Time I Reincarnated As a Slime
-                                                        Season 2</p>
+                                                    <p class="small-title">
+                                                        That Time I Reincarnated As a Slime Season 2
+                                                    </p>
                                                     <p class="text-box">dub 8</p>
                                                     <p class="text-box">sub 12</p>
                                                 </div>
@@ -997,16 +1100,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">22:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1025,16 +1128,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">14:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1053,16 +1156,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">19:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1084,14 +1187,14 @@
                         </div>
                         <div class="tab-pane fade" id="wednesday">
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">12:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1110,17 +1213,17 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
 
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">22:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1139,16 +1242,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">19:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1167,16 +1270,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">14:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1195,21 +1298,22 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">23:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
-                                                    <p class="small-title">That Time I Reincarnated As a Slime
-                                                        Season 2</p>
+                                                    <p class="small-title">
+                                                        That Time I Reincarnated As a Slime Season 2
+                                                    </p>
                                                     <p class="text-box">dub 8</p>
                                                     <p class="text-box">sub 12</p>
                                                 </div>
@@ -1224,16 +1328,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">07:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1255,14 +1359,14 @@
                         </div>
                         <div class="tab-pane fade" id="thursday">
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">12:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1281,16 +1385,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">14:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1309,16 +1413,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">19:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1337,16 +1441,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">07:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1368,14 +1472,14 @@
                         </div>
                         <div class="tab-pane fade" id="friday">
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">22:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1394,16 +1498,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">12:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1422,16 +1526,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">14:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1450,21 +1554,22 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">23:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
-                                                    <p class="small-title">That Time I Reincarnated As a Slime
-                                                        Season 2</p>
+                                                    <p class="small-title">
+                                                        That Time I Reincarnated As a Slime Season 2
+                                                    </p>
                                                     <p class="text-box">dub 8</p>
                                                     <p class="text-box">sub 12</p>
                                                 </div>
@@ -1479,16 +1584,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">19:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1507,16 +1612,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">07:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1537,21 +1642,21 @@
                             </a>
                         </div>
                         <div class="tab-pane fade" id="saturday">
-
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">23:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
-                                                    <p class="small-title">That Time I Reincarnated As a Slime
-                                                        Season 2</p>
+                                                    <p class="small-title">
+                                                        That Time I Reincarnated As a Slime Season 2
+                                                    </p>
                                                     <p class="text-box">dub 8</p>
                                                     <p class="text-box">sub 12</p>
                                                 </div>
@@ -1566,16 +1671,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">22:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1594,16 +1699,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">12:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1622,16 +1727,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">14:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1650,16 +1755,16 @@
                                     </div>
                                 </div>
                             </a>
-                            <hr>
+                            <hr />
                             <a href="streaming-season.html">
-                                <div class="row  align-items-center">
+                                <div class="row align-items-center">
                                     <div class="col-xl-1 col-lg-1 col-md-2 col-sm-2 col-0">
                                         <p class="text">07:00</p>
                                     </div>
                                     <div class="col-xl-8 col-lg-8 col-md-7 col-sm-10 col-12">
-                                        <div class="row  align-items-center">
+                                        <div class="row align-items-center">
                                             <div class="col-xl-1 col-lg-2 col-md-2 col-sm-2 col-3 ps-0 pe-0 text-end">
-                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="">
+                                                <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
                                             </div>
                                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-7 col-9">
                                                 <div class="schedule-content align-middle">
@@ -1685,319 +1790,378 @@
         </div>
     </section>
     <!--=====================================-->
-    <!--=           top Area Start          =-->
+    <!--=           Top Area Start          =-->
     <!--=====================================-->
     <section class="top sec-mar">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-8 offset-lg-0 offset-md-0 offset-sm-2 col-12">
-                    <h3>Recently Completed</h3>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-8 offset-xl-0 offset-lg-0 offset-md-0 offset-sm-2 col-12">
+                    <h3>Top Rated Comics</h3>
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-1.png" alt="">
+                                <div class="p-0 col-2">
+                                    <span class="light-text text-center color-primary">1</span>
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
+                                </div>
+                                <div class="p-0 col-7">
                                     <div class="anime-blog">
                                         <p>Darling in the Franxx!</p>
-                                        <p class="text">Chapter 120</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-2.png" alt="">
+                                <div class="p-0 col-2">
+                                    <span class="light-text text-center color-purple">2</span>
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
+                                </div>
+                                <div class="p-0 col-7">
                                     <div class="anime-blog">
                                         <p>Plastic Memories</p>
-                                        <p class="text">Chapter 150</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-3.png" alt="">
+                                <div class="p-0 col-2">
+                                    <span class="light-text text-center color-grey">3</span>
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
+                                </div>
+                                <div class="p-0 col-7">
                                     <div class="anime-blog">
                                         <p>That Time I Reincarnated</p>
-                                        <p class="text">Chapter 379</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-4.png" alt="">
+                                <div class="p-0 col-2">
+                                    <span class="light-text text-center">4</span>
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
+                                </div>
+                                <div class="p-0 col-7">
                                     <div class="anime-blog">
                                         <p>Assassination Classroom</p>
-                                        <p class="text">Chapter 199</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-5.png" alt="">
+                                <div class="p-0 col-2">
+                                    <span class="light-text text-center">5</span>
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
+                                </div>
+                                <div class="p-0 col-7">
                                     <div class="anime-blog">
                                         <p>Chainsaw Man</p>
-                                        <p class="text">Chapter 79</p>
-                                        <p class="text-box active ms-2 me-0">18+</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-6.png" alt="">
+                                <div class="p-0 col-2">
+                                    <span class="light-text text-center">6</span>
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
+                                </div>
+                                <div class="p-0 col-7">
                                     <div class="anime-blog">
                                         <p>No Game No Life Zero</p>
-                                        <p class="text">Chapter 159</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-8 offset-lg-0 offset-md-0 offset-sm-2 col-12">
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-8 offset-xl-0 offset-lg-0 offset-md-0 offset-sm-2 col-12">
                     <h3>New</h3>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-7.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-7.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
                                         <p>86</p>
-                                        <p class="text">Chapter 129</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-8.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-8.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
                                         <p>Re-Zero</p>
-                                        <p class="text">Chapter 169</p>
-                                        <p class="ms-2 me-0 text-box active">18+</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
+                                        <p class="text-box active">18+</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-9.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-9.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
                                         <p>Tokyo Ghoul</p>
-                                        <p class="text">Chapter 279</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-10.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-10.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
                                         <p>Sword Art Online</p>
-                                        <p class="text">Chapter 223</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-11.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-11.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
                                         <p>Sword Art Online: Alicization</p>
-                                        <p class="text">Chapter 94</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-12.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-12.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
                                         <p>One Piece</p>
-                                        <p class="text">Chapter 1016</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-8 offset-lg-0 offset-md-3 offset-sm-2 col-12">
-                    <h3>Top Rated Manga</h3>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-8 offset-xl-0 offset-lg-3 offset-md-3 offset-sm-2 col-12">
+                    <h3>Recently Completed</h3>
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-7.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-1.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
-                                        <p>86</p>
-                                        <p class="text">Chapter 129</p>
+                                        <p>Darling in the Franxx!</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-8.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-2.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
-                                        <p>Re-Zero</p>
-                                        <p class="text">Chapter 169</p>
-                                        <p class="ms-2 me-0 text-box active">18+</p>
+                                        <p>Plastic Memories</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-9.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-3.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
-                                        <p>Tokyo Ghoul</p>
-                                        <p class="text">Chapter 279</p>
+                                        <p>That Time I Reincarnated</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-10.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-4.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
-                                        <p>Sword Art Online</p>
-                                        <p class="text">Chapter 223</p>
+                                        <p>Assassination Classroom</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-11.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-5.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
-                                        <p>Sword Art Online: Alicization</p>
-                                        <p class="text">Chapter 94</p>
+                                        <p>Chainsaw Man</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
+                                        <p class="text-box active">18+</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
-                    <div class="anime-box style-2 bg-color-black">
-                        <a href="manga-detail.html">
-
+                    <div class="anime-box bg-color-black mb-0">
+                        <a href="streaming-season.html">
                             <div class="row m-0">
-                                <div class="p-0 col-4">
-                                    <img src="assets/media/manga-sm-img/manga-img-12.png" alt="">
+                                <div class="p-0 col-2">
+                                    <img src="assets/media/anime-sm-img/anime-img-6.png" alt="" />
                                 </div>
-                                <div class="p-0 col-8">
+                                <div class="p-0 col-9">
                                     <div class="anime-blog">
-                                        <p>One Piece</p>
-                                        <p class="text">Chapter 1016</p>
+                                        <p>No Game No Life Zero</p>
+                                        <p class="text-box">dub 8</p>
+                                        <p class="text-box">sub 12</p>
                                     </div>
                                 </div>
-
+                                <div class="p-0 col-1 show-type">
+                                    <span class="show-type">TV</span>
+                                </div>
                             </div>
                         </a>
                     </div>
